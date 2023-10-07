@@ -13,7 +13,7 @@
     "format": "prettier --write \"src/**/*.{json,js,jsx,ts,tsx,css,scss}\" "
   },
   "dependencies": {
-    "azle": "^0.17.1",
+    "azle": "^0.18.0",
     "@dfinity/auth-client": "^0.18.1",
     "@dfinity/identity": "^0.18.1"
   },
